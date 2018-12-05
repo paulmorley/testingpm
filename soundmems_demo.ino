@@ -72,7 +72,7 @@ Notes:
 #define LED_CK 11                                                               // Clock pin for WS2801 or APA102.
 #define COLOR_ORDER BGR                                                         // It's GRB for WS2812 and BGR for APA102.
 #define LED_TYPE WS2812B                                                         // Using APA102, WS2812, WS2801. Don't forget to modify LEDS.addLeds to suit.
-#define NUM_LEDS 128                                                       // Number of LED's.
+#define NUM_LEDS 26                                                       // Number of LED's.
 
 // Fixed sound hardware definitions cannot change on the fly.
 #define MIC_PIN    34                                                            // Microphone on A5.
