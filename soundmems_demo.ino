@@ -74,7 +74,7 @@ Notes:
 #define LED_TYPE WS2812B                                                         // Using APA102, WS2812, WS2801. Don't forget to modify LEDS.addLeds to suit.
 #define NUM_LEDS 128                                                       // Number of LED's.
 
-//testing pleasse accept
+//testing please accept
 
 
 // Fixed sound hardware definitions cannot change on the fly.
